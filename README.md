@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Statewise Distribution Visualizer
+
+Statewise Distribution Visualizer is a web application that provides a visual representation of various data points distributed across different states. This tool is especially useful for data analysts, researchers, and anyone interested in demographic or environmental statistics visualized on a state level.
+
+## Features
+
+- **Interactive Visualization**: Easy-to-understand visualizations that represent complex statewise data.
+- **Data Customization**: Users can select different data sets for visualization.
+- **Responsive Design**: Works on various devices, providing an optimal viewing experience.
+- **Dynamic Data Handling**: Capable of managing and rendering large data sets efficiently.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- A modern web browser.
+- Basic understanding of HTML, CSS, and JavaScript.
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/satviktripathi369/statewise-distribution-visualize.git
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
